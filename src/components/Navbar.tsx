@@ -4,7 +4,7 @@ import { waLink, generalMessage } from '../lib/whatsapp'
 const links = [['/', 'HOME'], ['/about', 'ABOUT'], ['/fleet', 'FLEET'], ['/trips', 'TRIPS']]
 export default function Navbar() {
   const [open, setOpen] = useState(false)
-  const cls = ({ isActive }: { isActive: boolean }) => `font-display text-sm font-bold tracking-wide transition ${isActive ? 'text-ocean' : 'text-deep/80 hover:text-deep'}`
+  const cls = ({ isActive }: { isActive: boolean }) => `font-display text-sm font-bold tracking-wide transition ${isActive ? 'text-ocean' : 'text-white/80 hover:text-white'}`
   return (
     <header className="sticky top-0 z-40 border-b border-white/10 bg-white/90 backdrop-blur">
       <div className="wrap flex h-16 items-center justify-between">
