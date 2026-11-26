@@ -6,7 +6,7 @@ export default function Navbar() {
   const [open, setOpen] = useState(false)
   const cls = ({ isActive }: { isActive: boolean }) => `font-display text-sm font-bold tracking-wide transition ${isActive ? 'text-ocean' : 'text-deep/80 hover:text-deep'}`
   return (
-    <header className="sticky top-0 z-40 border-b border-white bg-white/90 backdrop-blur">
+    <header className="sticky top-0 z-40 border-b border-deep/10 bg-white/90 backdrop-blur">
       <div className="wrap flex h-16 items-center justify-between">
         <Link to="/" className="flex items-center gap-3" onClick={() => setOpen(false)}><span className="rounded-lg bg-white px-2 py-1"><img src="/logo.png" alt="Indo Holiday Collections" className="h-9 w-auto" /></span><span className="font-display text-xs font-bold uppercase leading-tight tracking-wide text-deep md:hidden lg:block lg:text-sm">Indo Holiday<br />Collections</span></Link>
         <nav className="hidden items-center gap-6 md:flex lg:gap-8">
