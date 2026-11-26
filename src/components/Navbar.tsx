@@ -16,7 +16,7 @@ export default function Navbar() {
         <button className="p-2 text-2xl text-deep md:hidden" aria-label="Toggle menu" aria-expanded={open} onClick={() => setOpen(!open)}>{open ? '✕' : '☰'}</button>
       </div>
       {open && (
-        <nav className="flex flex-col gap-1 border-t border-white/10 bg-deep px-5 pb-5 pt-2 md:hidden">
+        <nav className="flex flex-col gap-1 border-t border-white/10 bg-white px-5 pb-5 pt-2 md:hidden">
           {links.map(([to, t]) => <NavLink key={to} to={to} end={to === '/'} className={cls} onClick={() => setOpen(false)}><span className="block py-3">{t}</span></NavLink>)}
           <a href={waLink(generalMessage)} target="_blank" rel="noreferrer" className="btn-warm mt-2">CONTACT US</a>
         </nav>)}
