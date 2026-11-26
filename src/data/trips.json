@@ -1,0 +1,38 @@
+[
+  {
+    "id": "x-feb-2027",
+    "shipId": "x",
+    "departureDate": "2027-02-27",
+    "returnDate": "2027-03-06",
+    "route": "Deep South",
+    "coverImage": "/images/TRIPS/RAYDIVE-DEEP SOUTH-X-2027.jpg",
+    "itineraryPdf": "/pdf/TRIPS/RAYDIVE-DEEP SOUTH-X-2027.pdf"
+  },
+  {
+    "id": "odyssey-apr-2027",
+    "shipId": "odyssey",
+    "departureDate": "2027-04-17",
+    "returnDate": "2027-04-24",
+    "route": "Best Of Maldives",
+    "coverImage": "/images/TRIPS/NONI-BOM-ODYSSEY-2027.jpg",
+    "itineraryPdf": "/pdf/TRIPS/NONI-BOM-ODYSSEY-2027.pdf"
+  },
+  {
+    "id": "y-sep-2027",
+    "shipId": "y",
+    "departureDate": "2027-09-25",
+    "returnDate": "2027-10-02",
+    "route": "Hanifaru Bay",
+    "coverImage": "/images/TRIPS/OT-HANIFARU-Y-2027.jpg",
+    "itineraryPdf": "/pdf/TRIPS/OT-HANIFARU-Y-2027.pdf"
+  },
+  {
+    "id": "y-mar-2028",
+    "shipId": "y",
+    "departureDate": "2028-03-25",
+    "returnDate": "2028-04-01",
+    "route": "Deep South",
+    "coverImage": "/images/TRIPS/MERAKI-DEEP SOUTH-Y-2028.jpg",
+    "itineraryPdf": "/pdf/TRIPS/MERAKI-DEEP SOUTH-Y-2028.pdf"
+  }
+]

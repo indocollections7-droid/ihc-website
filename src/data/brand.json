@@ -1,0 +1,63 @@
+{
+  "officialRep": "Official Representative of Maldives Legend in Indonesia",
+  "ihcRole": [
+    "Indonesian contact point for Maldives Legend",
+    "Helps you choose and understand the right trip",
+    "Direct communication for inquiries and booking",
+    "Access to Maldives Legend departures"
+  ],
+  "why": {
+    "headline": "Why Maldives Legend?",
+    "intro": "More than just a boat. A locally operated Maldives liveaboard experience built around the ocean, the people, and the journey.",
+    "ranking": "#1",
+    "rankingLabel": "Dive Liveaboards in Maldives",
+    "points": [
+      {
+        "title": "Largest Locally Operated Fleet",
+        "text": "More vessel options and a strong local presence across Maldives."
+      },
+      {
+        "title": "High Quality & Well Maintained Fleet",
+        "text": "Comfortable liveaboards designed and maintained for life at sea."
+      },
+      {
+        "title": "Professional Local Dive Team",
+        "text": "Experienced local professionals who understand the waters and dive environment."
+      },
+      {
+        "title": "Experienced & Excellent Crew",
+        "text": "A crew focused on making the journey comfortable, smooth, and memorable."
+      },
+      {
+        "title": "Safety First Policy",
+        "text": "Safety remains a fundamental part of the experience."
+      }
+    ]
+  },
+  "activities": {
+    "title": "Four ways to be at sea",
+    "intro": "Whether you dive, freedive, explore as a mermaid, or simply want to enjoy life at sea, there is a way to experience Maldives with Maldives Legend.",
+    "items": [
+      {
+        "title": "Scuba",
+        "text": "Drift through channels and reefs, then come home to the dive deck.",
+        "image": "/images/Activity/TIKET5.jpg"
+      },
+      {
+        "title": "Freedive",
+        "text": "One breath, no tank, just you and the blue.",
+        "image": "/images/Activity/FREEDIVE.jpg"
+      },
+      {
+        "title": "Mermaid",
+        "text": "Slip into a tail and swim like you belong here.",
+        "image": "/images/Activity/MERMAID.jpg"
+      },
+      {
+        "title": "Fun Cruises",
+        "text": "No gear needed. Sun, sea and slow days on board.",
+        "image": "/images/Activity/TIKET3.jpg"
+      }
+    ]
+  }
+}
