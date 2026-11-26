@@ -8,7 +8,7 @@ import Trips from './pages/Trips'
 import Fleet from './pages/Fleet'
 import About from './pages/About'
 
-function ScrollTop() { const { pathname } = useLocation(); useEffect(() => window.scrollTo(0, 0), [pathname]); return null }
+function ScrollTop() { const { pathname } = useLocation(); useEffect(() => { window.scrollTo(0, 0) }, [pathname]); return null }
 
 export default function App() {
   return (<>
