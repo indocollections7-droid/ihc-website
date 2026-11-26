@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className="bg-deep py-12 text-white/70">
       <div className="wrap flex flex-col gap-8 md:flex-row md:items-center md:justify-between">
         <div className="flex items-center gap-4">
-          <span className="rounded-lg bg-white px-2 py-1"><img src="/logo.png" alt="IHC" className="h-10 w-auto" /></span>
+          <span className="shrink-0 rounded-lg bg-white px-2 py-1"><img src="/logo.png" alt="Indo Holiday Collections" className="h-9 w-auto max-w-none" /></span>
           <p className="max-w-xs text-sm">Official Representative of Maldives Legend in Indonesia. See you beneath the surface.</p>
         </div>
         <div className="flex gap-6 text-sm font-bold">
