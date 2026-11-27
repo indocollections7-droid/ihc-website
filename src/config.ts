@@ -2,8 +2,8 @@
 export const company = {
   name: 'Indo Holiday Collections',
   short: 'IHC',
-  whatsapp: '6285119340568', // international format, no "+"
-  whatsappDisplay: '+62 851-1934-0568',
+  whatsapp: '628132002039', // international format, no "+"
+  whatsappDisplay: '+62 813-2002-039',
   placeholder: '/images/Golden Hour Megayacht Seascape3.jpg',
 }
 // Card button labels
