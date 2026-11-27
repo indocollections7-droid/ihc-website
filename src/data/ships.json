@@ -3,40 +3,40 @@
     "id": "y",
     "name": "Y",
     "image": "/images/FLEET/ML Y - Exterior 3.jpg",
-    "cabins": 6,
-    "guests": 13,
+    "cabins": 14,
+    "guests": 26/28,
     "pdf": "/pdf/FLEET/MALDIVES LEGEND Y.pdf"
   },
   {
     "id": "zen",
     "name": "Zen",
     "image": "/images/FLEET/ML ZEN DRONE-2.jpg",
-    "cabins": 6,
-    "guests": 14,
+    "cabins": 13,
+    "guests": 25,
     "pdf": "/pdf/FLEET/MALDIVES LEGEND ZEN.pdf"
   },
   {
     "id": "odyssey",
     "name": "Odyssey",
     "image": "/images/FLEET/Odyssey - Birds Eye 3.jpg",
-    "cabins": 8,
-    "guests": 20,
+    "cabins": 11,
+    "guests": 22,
     "pdf": "/pdf/FLEET/MALDIVES LEGEND ODYSSEY.pdf"
   },
   {
     "id": "sea-pleasure",
     "name": "Sea Pleasure",
     "image": "/images/FLEET/ML SEA PLEASURE.jpg",
-    "cabins": 9,
-    "guests": 18,
+    "cabins": 10,
+    "guests": 23,
     "pdf": "/pdf/FLEET/MALDIVES LEGEND SEA PLEASURE.pdf"
   },
   {
     "id": "x",
     "name": "X",
     "image": "/images/FLEET/ML X - Aerial.jpg",
-    "cabins": 6,
-    "guests": 12,
+    "cabins": 13,
+    "guests": 26,
     "pdf": "/pdf/FLEET/MALDIVES LEGEND X.pdf"
   }
 ]
